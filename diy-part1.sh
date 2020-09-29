@@ -21,3 +21,4 @@ git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/lean/lu
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/lean/luci-theme-opentomato
 git clone https://github.com/vernesong/OpenClash.git package/lean/openclash
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
+mv package/lean/openclash/luci-app-openclash ../
