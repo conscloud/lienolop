@@ -22,7 +22,6 @@ git clone https://github.com/Leo-Jo-My/luci-theme-opentomato.git package/lean/lu
 git clone https://github.com/vernesong/OpenClash.git package/lean/openclash
 git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git package/lean/luci-app-jd-dailybonus
 mv package/lean/openclash/luci-app-openclash package/lean/
-mv package/lean/openclash/luci-app-openclash package/lean/
 cd package/lean
 rm -rf luci-theme-argon
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git
